@@ -12,3 +12,28 @@ span{
 h2{
 	color: #ff401f
 }
+
+div{
+	float: left;
+}
+
+p{
+	font-family: Georgia
+}
+
+#main{
+	width: 60%;
+	max-width: 50em;
+}
+
+#sidebar{
+	position:fixed;
+	left: 60%;
+	top: 20px
+}
+
+#links{
+	font-family: Arial;
+	background-color: #7c76bc;
+	color: #4c0503;
+}
