@@ -21,9 +21,10 @@ p{
 	font-family: Georgia
 }
 
-#main{
+.main{
 	width: 60%;
 	max-width: 50em;
+	min-width: 15em;
 }
 
 #sidebar{
@@ -36,4 +37,17 @@ p{
 	font-family: Arial;
 	background-color: #7c76bc;
 	color: #4c0503;
+}
+
+#announcements{
+	
+	padding: 10px;
+	margin-top: 25%;
+	width: 30%;
+	min-width: 10em;
+	font-size: 0.5em;
+	/*float: right;*/
+	background-color: #e780fc;
+	color: #4e015e;
+	border-style: double;
 }
