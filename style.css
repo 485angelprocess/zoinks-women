@@ -1,5 +1,5 @@
 body{
-	background-color: #1E0111;
+	background-color: #000000;
 	color: #FFFFFF;
 	font-family: Helvetica;
 	font-size: 5em
@@ -25,6 +25,9 @@ p{
 	width: 60%;
 	max-width: 50em;
 	min-width: 15em;
+	margin: 1em;
+	border: solid;
+	background-color: #1E0111;
 }
 
 #sidebar{
